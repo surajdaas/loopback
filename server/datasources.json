@@ -1,0 +1,18 @@
+{
+  "mongoDb": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "getting-started",
+    "password": "",
+    "name": "mongoDb",
+    "user": "",
+    "connector": "mongodb"
+  },
+  "getting-started": {
+    "name": "getting-started",
+    "localStorage": "",
+    "file": "",
+    "connector": "memory"
+  }
+}
