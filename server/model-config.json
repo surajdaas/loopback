@@ -36,7 +36,15 @@
     "public": false
   },
   "coffeshop": {
-    "dataSource": "getting-started",
+    "dataSource": "mongoDb",
+    "public": true
+  },
+  "review": {
+    "dataSource": "mongoDb",
+    "public": true
+  },
+  "reviewer": {
+    "dataSource": "mongoDb",
     "public": true
   }
 }
